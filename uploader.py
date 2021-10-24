@@ -13,7 +13,7 @@ This video is uploaded by YoutubeAutoUploader
 Created by deXOR0
 
 Check out YoutubeAutoUploader on GitHub!
---GitHub Link--
+https://github.com/deXOR0/YoutubeAutoUploader
 
 Follow deXOR0 on GitHub!
 https://github.com/deXOR0
